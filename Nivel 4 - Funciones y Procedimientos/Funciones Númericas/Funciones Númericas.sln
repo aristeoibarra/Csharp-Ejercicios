@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funciones Matemáticas", "Funciones Matemáticas\Funciones Matemáticas.csproj", "{821EDBBF-AE51-4F29-AB0C-461E920BFE57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funciones Trigonométricas", "Funciones Trigonométricas\Funciones Trigonométricas.csproj", "{5116614C-29D4-4D30-BE4B-51ED5D29E23F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcion Aleatoria", "Funcion Aleatoria\Funcion Aleatoria.csproj", "{9E66A11E-F910-4E85-BEA2-41F91A44D10F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{821EDBBF-AE51-4F29-AB0C-461E920BFE57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821EDBBF-AE51-4F29-AB0C-461E920BFE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821EDBBF-AE51-4F29-AB0C-461E920BFE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821EDBBF-AE51-4F29-AB0C-461E920BFE57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5116614C-29D4-4D30-BE4B-51ED5D29E23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5116614C-29D4-4D30-BE4B-51ED5D29E23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5116614C-29D4-4D30-BE4B-51ED5D29E23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5116614C-29D4-4D30-BE4B-51ED5D29E23F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E66A11E-F910-4E85-BEA2-41F91A44D10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E66A11E-F910-4E85-BEA2-41F91A44D10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E66A11E-F910-4E85-BEA2-41F91A44D10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E66A11E-F910-4E85-BEA2-41F91A44D10F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D1AD571-DEC1-41E9-8A9D-D55B6F654FE6}
+	EndGlobalSection
+EndGlobal
